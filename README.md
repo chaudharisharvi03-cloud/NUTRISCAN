@@ -1,6 +1,6 @@
 Nutri-Scan: Chronic Care Assistant Track: Health Tech
 
-Status: Fully Functional Prototype (36-Hour Hackathon Build)
+Status: Fully Functional Prototype 
 
 Video Demo:
 
