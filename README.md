@@ -3,7 +3,7 @@ Nutri-Scan: Chronic Care Assistant Track: Health Tech
 
 Status: Fully Functional Prototype
 
-Video Demo:
+Video Demo:https://youtu.be/dnw1_Gt8pNg
 
 The Problem Patients managing Chronic Kidney Disease (CKD) and Diabetes face a daily struggle with "Hidden Killers"—Sodium, Potassium, and Sugar hidden in processed foods.
 
